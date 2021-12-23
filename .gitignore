@@ -1,0 +1,4 @@
+/node_modules
+.env
+FireStoreLogin.json
+package-lock.json
